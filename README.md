@@ -108,11 +108,13 @@ Only the last process you set up should need to be told the `n` to count down fr
 4. You may need to look at `client.Go` rather than `client.Call`.
 
 <details>
-    <summaryHTML Vis of solution with code</summary>
+    <summary>Big Hint - HTML vis with code </summary>
+
 
 [here](https://uob-csa.github.io/website/vis/week3/bottles-of-beer-rpc-walkthrough.html)
 
 </details>
+
 
 
 ## Don't forget to stop any AWS instances!
